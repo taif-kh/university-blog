@@ -1,4 +1,6 @@
-<img src="frontend/public/whereIsTheAlbum_index.png" alt="WhereIsTheAlbum">
+<img src="frontend/public/admin_interface.png" alt="Admin Interface Page">
+<br />
+<img src="frontend/public/post_details.png" alt="postDetails Page">
 <br />
 
 # University Blog Platform 🎓
