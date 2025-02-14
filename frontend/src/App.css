@@ -1,0 +1,18 @@
+@import url('https://fonts.cdnfonts.com/css/helvetica-neue-55');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.custom-link:link, .custom-link:visited, .custom-link:hover, .custom-link:active {
+  color: white; /* Keeps the link color white in all states */
+  text-decoration: none; /* Optional: removes the underline */
+}
+
+.custom-link-two:link, .custom-link-two:visited, .custom-link-two:hover, .custom-link-two:active {
+  color: white; 
+}
+
+body {
+  background-color: white;
+}
