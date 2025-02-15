@@ -22,6 +22,8 @@ The platform streamlines content management and enhances user interaction by pro
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
 </div>
 
+---
+
 ## ✨ **Features**
 
 ### **For Administrators:**
@@ -43,7 +45,7 @@ The platform streamlines content management and enhances user interaction by pro
 - **RESTful APIs:** Implemented using Node.js and Express.js for efficient communication between the frontend and backend.
 - **Efficient Data Storage:** Utilized PostgreSQL for reliable data storage and retrieval.
 
-
+---
 
 ## 🛠️ **Technologies Used**
 
@@ -54,7 +56,7 @@ The platform streamlines content management and enhances user interaction by pro
 - **Design:** Figma (for wireframes and prototypes)
 - **Development Tools:** VS Code, Git, Postman
 
-
+---
 
 ## 🚀 **Getting Started**
 
