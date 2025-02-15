@@ -5,9 +5,22 @@
 
 # University Blog Platform 🎓
 
-As a **Full Stack Developer**, I designed and developed a **University Blog Platform** to facilitate communication and engagement between students and administrators. The platform offers a range of functionalities to streamline content management and enhance user interaction.
+I designed and developed a **Full Stack University Blog Platform** using **React.js, TailwindCSS, Express.js, Node.js, and PostgreSQL** to facilitate communication and engagement between students and administrators.  
+The platform streamlines content management and enhances user interaction by providing a seamless experience for posting and discussing university-related content.  
 
----
+<br />
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+</div>
 
 ## ✨ **Features**
 
@@ -30,7 +43,7 @@ As a **Full Stack Developer**, I designed and developed a **University Blog Plat
 - **RESTful APIs:** Implemented using Node.js and Express.js for efficient communication between the frontend and backend.
 - **Efficient Data Storage:** Utilized PostgreSQL for reliable data storage and retrieval.
 
----
+
 
 ## 🛠️ **Technologies Used**
 
@@ -41,7 +54,7 @@ As a **Full Stack Developer**, I designed and developed a **University Blog Plat
 - **Design:** Figma (for wireframes and prototypes)
 - **Development Tools:** VS Code, Git, Postman
 
----
+
 
 ## 🚀 **Getting Started**
 
@@ -121,3 +134,5 @@ This project is licensed under the **MIT License**. For more details, see <a hre
 - The web development community for endless resources and support.
 
 Made with ❤️ by Taif Khaskhoussi. Let's connect on <a href="https://www.linkedin.com/in/taif-khaskhoussi/" target="_blank" rel="noopener">LinkedIn</a>!
+
+
